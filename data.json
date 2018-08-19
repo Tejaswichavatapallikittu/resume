@@ -1,0 +1,49 @@
+{
+	"basicdetails":{
+		"image":"image.jpg",
+		"name":"tejaswi chavatapalli",
+		"email":"tejaswi.5chavatapalli@gmail.com",
+		"phoneno":"9849632325",
+		"address":"navabharath nagar"
+	},
+"education":[
+	{
+		"course":"B-tech",
+		"college":"vignan nirula college",
+		"percentage":"70%"
+	},
+	{
+		"course":"intermediate(MPC)",
+		"college":"lalitha",
+		"percentage":"70%"
+	},
+	{
+		"course":"SSC",
+		"college":"kkr's gowtham cocept school",
+		"percentage":"80%"
+	}
+],
+	"skills":[
+		{
+			"name":"operating system",
+			"value":"Windows,Linux,MAC"
+		},
+		{
+			"name":"programming language",
+			"value":"c,c++,java,python"
+		}
+	],
+	"carrier":{
+		"ca":"i will complete my target in time"
+	},
+	"achivements":[
+		"i got 2nd prize in debuging",
+		"i got 3rd prize in coding",
+		"i got nobel prize",
+		"i got oscar prize with ar rahaman"
+	],
+    "descriptiond":
+    	{
+    		"des":"i  there by declare that above mentioned of mine are true."
+    	}
+}
